@@ -1,5 +1,5 @@
 {
-  "name": "fyipe-log-js-staging",
+  "name": "fyipe-log-js",
   "version": "3.0.4342",
   "description": "A fyipe JS package that send logs from your applications to your fyipe dashboard.",
   "main": "dist/logger.js",
