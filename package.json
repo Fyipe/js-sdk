@@ -1,11 +1,11 @@
 {
     "name": "fyipe",
-    "version": "3.0.0",
+    "version": "3.0.10101",
     "description": "Fyipe is a JS package that tracks error event and send logs from your applications to your fyipe dashboard.",
     "main": "dist/fyipe.js",
     "unpkg": "dist/fyipe.min.js",
     "bin": {
-        "fyipe": "./src/cli/fyipe.js"
+        "fyipe": "src/cli/fyipe.js"
     },
     "scripts": {
         "preinstall": "npx npm-force-resolutions || echo 'No package-lock.json file. Skipping force resolutions'",
