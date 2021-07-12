@@ -1,5 +1,5 @@
 {
-  "name": "fyipe-staging",
+  "name": "fyipe",
   "version": "3.0.12268",
   "description": "Fyipe is a JS package that tracks error event and send logs from your applications to your fyipe dashboard.",
   "main": "dist/fyipe.js",
