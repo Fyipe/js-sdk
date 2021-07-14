@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 import FyipeTimelineManager from './timelineManager';
 import Util from './util';
 import Http from 'http';

@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 /*eslint-disable no-unused-vars*/
 import Module from 'module';
 const semver = require('semver');
